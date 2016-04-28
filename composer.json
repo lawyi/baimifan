@@ -19,6 +19,5 @@
         "files": [
             "src/Baimifan/bmfsms/sdk/baichuan/TopSdk.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
