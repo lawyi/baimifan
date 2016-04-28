@@ -1,0 +1,24 @@
+{
+    "name": "lawyi/baimifan",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "lawyi",
+            "email": "511495748@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Baimifan\\": [
+                "src/Baimifan/bmfsms"
+            ]
+        },
+        "files": [
+            "src/Baimifan/bmfsms/sdk/baichuan/TopSdk.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
