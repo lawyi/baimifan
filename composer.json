@@ -1,5 +1,7 @@
 {
     "name": "lawyi/baimifan",
+	"license": "MIT",
+    "keywords": ["baimifan","sms"],
     "version": "1.0.0",
     "authors": [
         {
